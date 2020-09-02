@@ -10,6 +10,7 @@ export const AvailableLanguages: ILanguage[] = [
     { display: 'Português (Brasil)', value: 'pt' },
     { display: 'Polski', value: 'pl' },
     { display: 'Svenska', value: 'sv' },
+    { display: 'Magyar', value: 'hu' },
 ];
 
 export interface ILanguage {
